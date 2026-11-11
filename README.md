@@ -1,4 +1,4 @@
-# Coresets for density-based Bayesian clustering via predictive matching
+# Bayesian Coresets for Density-Based Clustering via Predictive Matching
 
 Code and saved results for the paper. The coreset is an affine transformation of a small uniform
 subsample, chosen so that the predictive density-based partitions it produces match those of the
