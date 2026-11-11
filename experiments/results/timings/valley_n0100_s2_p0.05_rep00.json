@@ -1,0 +1,1 @@
+{"total": 48.15509374999965, "collect": 0.07169520900060888, "transform": 29.023279125001864, "select": 19.058902624994516, "N": 20000, "d": 8, "n": 100, "lambda_out": 1.0, "study": "valley", "name": "valley_n0100_s2_p0.05_rep00", "machine": "macOS-27.2-arm64-arm-64bit / arm / 1 thread"}

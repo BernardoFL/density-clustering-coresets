@@ -1,0 +1,1 @@
+{"total": 67.31330154199532, "collect": 0.08127999999851454, "transform": 36.5012784999999, "select": 30.729256083002838, "N": 10000, "d": 20, "n": 100, "lambda_out": 0.8, "study": "curved", "name": "curved_n0100_rep02", "machine": "macOS-27.2-arm64-arm-64bit / arm / 1 thread"}

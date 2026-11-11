@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Raw data (download with data/export_cytof.R)
+data/cytof/
+
+# OS
+.DS_Store

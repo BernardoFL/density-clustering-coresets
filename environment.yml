@@ -1,0 +1,20 @@
+name: coresets
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy=2.2.6
+  - scipy=1.15.2
+  - scikit-learn=1.7.2
+  - matplotlib=3.10.9
+  - pandas=2.3.3
+  - tqdm
+  - pytest
+  - setuptools<81          # squidpy's dependencies import pkg_resources
+  - pip
+  - pip:
+    - jax[cpu]==0.6.2
+    - numpyro==0.19.0
+    - pot==0.9.7.post1     # exact optimal transport, W2 baseline
+    - scanpy==1.11.5       # Visium preprocessing
+    - squidpy==1.6.5       # Visium download

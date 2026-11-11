@@ -1,0 +1,1 @@
+{"total": 41.195913791998464, "collect": 0.04361087500001304, "transform": 11.065716375000193, "select": 30.086295625005732, "N": 2688, "d": 42, "n": 100, "lambda_out": 1.0, "study": "visium", "name": "visium_n0100_rep05", "machine": "macOS-27.2-arm64-arm-64bit / arm / 1 thread"}

@@ -1,0 +1,1 @@
+{"total": 50.73093350000272, "collect": 0.158779625002353, "transform": 28.862683250001282, "select": 21.70522762499604, "N": 83522, "d": 13, "n": 250, "lambda_out": 1.0, "study": "levine", "name": "levine_n0250_rep04", "machine": "macOS-27.2-arm64-arm-64bit / arm / 1 thread"}
